@@ -1,0 +1,1216 @@
+{
+    "video_file": "video.mp4",
+    "duration_seconds": 12.133366666666667,
+    "duration": "0:00:12.133367",
+    "detection_summary": {
+        "broken_road": 37,
+        "no_helmet": 2,
+        "garbage": 3,
+        "pothole": 39
+    },
+    "detections": [
+        {
+            "timestamp_seconds": 0.10000027472527473,
+            "timestamp": "0:00:00.100000",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.77605,
+                    "bounding_box": [
+                        0.0,
+                        698.0,
+                        192.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "no_helmet",
+                    "class": "no_helmet_rider",
+                    "confidence": 0.5200392723083497,
+                    "bounding_box": [
+                        837.2049560546875,
+                        174.537841796875,
+                        932.7540283203125,
+                        348.68072509765625
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 0.20000054945054946,
+            "timestamp": "0:00:00.200001",
+            "detections": [
+                {
+                    "category": "no_helmet",
+                    "class": "no_helmet_rider",
+                    "confidence": 0.5165656089782715,
+                    "bounding_box": [
+                        878.9466552734375,
+                        172.94969177246094,
+                        1015.6357421875,
+                        376.5943603515625
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 1.3000035714285716,
+            "timestamp": "0:00:01.300004",
+            "detections": [
+                {
+                    "category": "garbage",
+                    "class": "frisbee",
+                    "confidence": 0.4407077729701996,
+                    "bounding_box": [
+                        285.21844482421875,
+                        421.56982421875,
+                        350.17724609375,
+                        457.3638916015625
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 4.000010989010989,
+            "timestamp": "0:00:04.000011",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6197,
+                    "bounding_box": [
+                        0.0,
+                        432.0,
+                        67.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 4.4000120879120885,
+            "timestamp": "0:00:04.400012",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.57965,
+                    "bounding_box": [
+                        0.0,
+                        432.0,
+                        63.0,
+                        468.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 4.700012912087912,
+            "timestamp": "0:00:04.700013",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6850499999999999,
+                    "bounding_box": [
+                        90.0,
+                        432.0,
+                        229.0,
+                        472.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 4.800013186813187,
+            "timestamp": "0:00:04.800013",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.7891,
+                    "bounding_box": [
+                        0.0,
+                        432.0,
+                        129.0,
+                        519.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.000013736263736,
+            "timestamp": "0:00:05.000014",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.7229,
+                    "bounding_box": [
+                        660.0,
+                        454.0,
+                        706.0,
+                        555.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.100014010989011,
+            "timestamp": "0:00:05.100014",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.7649,
+                    "bounding_box": [
+                        549.0,
+                        545.0,
+                        596.0,
+                        667.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.9065,
+                    "bounding_box": [
+                        530.0,
+                        432.0,
+                        617.0,
+                        542.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.200014285714286,
+            "timestamp": "0:00:05.200014",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.57945,
+                    "bounding_box": [
+                        1238.0,
+                        573.0,
+                        1280.0,
+                        601.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.5842,
+                    "bounding_box": [
+                        238.0,
+                        434.0,
+                        265.0,
+                        479.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.3000145604395605,
+            "timestamp": "0:00:05.300015",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.7947,
+                    "bounding_box": [
+                        161.0,
+                        603.0,
+                        210.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.56895,
+                    "bounding_box": [
+                        1262.0,
+                        599.0,
+                        1280.0,
+                        653.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.95,
+                    "bounding_box": [
+                        0.0,
+                        562.0,
+                        70.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.61265,
+                    "bounding_box": [
+                        1230.0,
+                        538.0,
+                        1280.0,
+                        590.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.400014835164836,
+            "timestamp": "0:00:05.400015",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.83665,
+                    "bounding_box": [
+                        1212.0,
+                        536.0,
+                        1280.0,
+                        650.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.50001510989011,
+            "timestamp": "0:00:05.500015",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.9289000000000001,
+                    "bounding_box": [
+                        1196.0,
+                        527.0,
+                        1280.0,
+                        642.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.600015384615385,
+            "timestamp": "0:00:05.600015",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.80785,
+                    "bounding_box": [
+                        1203.0,
+                        561.0,
+                        1270.0,
+                        625.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6181,
+                    "bounding_box": [
+                        1183.0,
+                        512.0,
+                        1234.0,
+                        560.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.70001565934066,
+            "timestamp": "0:00:05.700016",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.9444,
+                    "bounding_box": [
+                        1181.0,
+                        511.0,
+                        1268.0,
+                        625.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.800015934065934,
+            "timestamp": "0:00:05.800016",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.95,
+                    "bounding_box": [
+                        1186.0,
+                        505.0,
+                        1274.0,
+                        620.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 5.900016208791209,
+            "timestamp": "0:00:05.900016",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.84185,
+                    "bounding_box": [
+                        1198.0,
+                        571.0,
+                        1269.0,
+                        642.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6271,
+                    "bounding_box": [
+                        1181.0,
+                        518.0,
+                        1231.0,
+                        573.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.000016483516484,
+            "timestamp": "0:00:06.000016",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.95,
+                    "bounding_box": [
+                        1178.0,
+                        543.0,
+                        1266.0,
+                        665.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.100016758241758,
+            "timestamp": "0:00:06.100017",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.84285,
+                    "bounding_box": [
+                        1191.0,
+                        622.0,
+                        1259.0,
+                        692.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6158,
+                    "bounding_box": [
+                        1171.0,
+                        567.0,
+                        1218.0,
+                        616.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.200017032967033,
+            "timestamp": "0:00:06.200017",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.8186,
+                    "bounding_box": [
+                        1199.0,
+                        655.0,
+                        1263.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6107,
+                    "bounding_box": [
+                        1177.0,
+                        602.0,
+                        1224.0,
+                        655.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.300017307692308,
+            "timestamp": "0:00:06.300017",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.73605,
+                    "bounding_box": [
+                        1212.0,
+                        674.0,
+                        1277.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6246,
+                    "bounding_box": [
+                        1184.0,
+                        617.0,
+                        1235.0,
+                        669.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.400017582417583,
+            "timestamp": "0:00:06.400018",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.62575,
+                    "bounding_box": [
+                        1194.0,
+                        690.0,
+                        1255.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6144499999999999,
+                    "bounding_box": [
+                        1166.0,
+                        637.0,
+                        1215.0,
+                        684.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.500017857142858,
+            "timestamp": "0:00:06.500018",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.61115,
+                    "bounding_box": [
+                        1153.0,
+                        656.0,
+                        1202.0,
+                        701.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.600018131868132,
+            "timestamp": "0:00:06.600018",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6086,
+                    "bounding_box": [
+                        1135.0,
+                        668.0,
+                        1184.0,
+                        713.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 6.700018406593407,
+            "timestamp": "0:00:06.700018",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.57085,
+                    "bounding_box": [
+                        1119.0,
+                        679.0,
+                        1169.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.000019230769231,
+            "timestamp": "0:00:07.000019",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.70265,
+                    "bounding_box": [
+                        525.0,
+                        432.0,
+                        573.0,
+                        486.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.2000197802197805,
+            "timestamp": "0:00:07.200020",
+            "detections": [
+                {
+                    "category": "garbage",
+                    "class": "skis",
+                    "confidence": 0.44943758845329285,
+                    "bounding_box": [
+                        303.4935302734375,
+                        664.209716796875,
+                        476.106689453125,
+                        719.544921875
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.8146,
+                    "bounding_box": [
+                        1232.0,
+                        628.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.300020054945056,
+            "timestamp": "0:00:07.300020",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.81185,
+                    "bounding_box": [
+                        1201.0,
+                        617.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.40002032967033,
+            "timestamp": "0:00:07.400020",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.78075,
+                    "bounding_box": [
+                        1212.0,
+                        626.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.500020604395605,
+            "timestamp": "0:00:07.500021",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.70795,
+                    "bounding_box": [
+                        1215.0,
+                        648.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.60002087912088,
+            "timestamp": "0:00:07.600021",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6142,
+                    "bounding_box": [
+                        1204.0,
+                        676.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.700021153846154,
+            "timestamp": "0:00:07.700021",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.61115,
+                    "bounding_box": [
+                        1191.0,
+                        674.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.800021428571429,
+            "timestamp": "0:00:07.800021",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6703,
+                    "bounding_box": [
+                        1179.0,
+                        669.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 7.900021703296703,
+            "timestamp": "0:00:07.900022",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.82145,
+                    "bounding_box": [
+                        1174.0,
+                        661.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.000021978021978,
+            "timestamp": "0:00:08.000022",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.8693,
+                    "bounding_box": [
+                        1179.0,
+                        668.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.100022252747253,
+            "timestamp": "0:00:08.100022",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.8534999999999999,
+                    "bounding_box": [
+                        1187.0,
+                        667.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.200022527472528,
+            "timestamp": "0:00:08.200023",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.85745,
+                    "bounding_box": [
+                        1183.0,
+                        669.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.300022802197802,
+            "timestamp": "0:00:08.300023",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.7924,
+                    "bounding_box": [
+                        1201.0,
+                        673.0,
+                        1280.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.400023076923077,
+            "timestamp": "0:00:08.400023",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6985,
+                    "bounding_box": [
+                        1241.0,
+                        652.0,
+                        1280.0,
+                        720.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.55325,
+                    "bounding_box": [
+                        460.0,
+                        439.0,
+                        492.0,
+                        474.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.500023351648352,
+            "timestamp": "0:00:08.500023",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.58335,
+                    "bounding_box": [
+                        439.0,
+                        454.0,
+                        500.0,
+                        493.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.600023626373627,
+            "timestamp": "0:00:08.600024",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.5999,
+                    "bounding_box": [
+                        408.0,
+                        471.0,
+                        469.0,
+                        513.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.700023901098902,
+            "timestamp": "0:00:08.700024",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.6167,
+                    "bounding_box": [
+                        371.0,
+                        482.0,
+                        439.0,
+                        531.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.800024175824177,
+            "timestamp": "0:00:08.800024",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6432,
+                    "bounding_box": [
+                        305.0,
+                        496.0,
+                        405.0,
+                        551.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.5523,
+                    "bounding_box": [
+                        359.0,
+                        432.0,
+                        392.0,
+                        466.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 8.90002445054945,
+            "timestamp": "0:00:08.900024",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.67705,
+                    "bounding_box": [
+                        245.0,
+                        514.0,
+                        359.0,
+                        572.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.55175,
+                    "bounding_box": [
+                        378.0,
+                        445.0,
+                        402.0,
+                        475.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.55075,
+                    "bounding_box": [
+                        351.0,
+                        432.0,
+                        377.0,
+                        466.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.62135,
+                    "bounding_box": [
+                        314.0,
+                        432.0,
+                        349.0,
+                        512.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.000024725274725,
+            "timestamp": "0:00:09.000025",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.70755,
+                    "bounding_box": [
+                        188.0,
+                        535.0,
+                        301.0,
+                        601.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.56455,
+                    "bounding_box": [
+                        322.0,
+                        460.0,
+                        349.0,
+                        496.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.7987500000000001,
+                    "bounding_box": [
+                        256.0,
+                        432.0,
+                        341.0,
+                        533.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.100025,
+            "timestamp": "0:00:09.100025",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.72615,
+                    "bounding_box": [
+                        101.0,
+                        565.0,
+                        208.0,
+                        629.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.5577,
+                    "bounding_box": [
+                        304.0,
+                        540.0,
+                        347.0,
+                        562.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.5660000000000001,
+                    "bounding_box": [
+                        256.0,
+                        477.0,
+                        283.0,
+                        516.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.9117500000000001,
+                    "bounding_box": [
+                        186.0,
+                        432.0,
+                        275.0,
+                        548.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.200025274725276,
+            "timestamp": "0:00:09.200025",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.71945,
+                    "bounding_box": [
+                        32.0,
+                        597.0,
+                        125.0,
+                        667.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.57655,
+                    "bounding_box": [
+                        234.0,
+                        561.0,
+                        290.0,
+                        587.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.56855,
+                    "bounding_box": [
+                        180.0,
+                        502.0,
+                        205.0,
+                        539.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.87845,
+                    "bounding_box": [
+                        101.0,
+                        432.0,
+                        195.0,
+                        517.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.30002554945055,
+            "timestamp": "0:00:09.300026",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.57645,
+                    "bounding_box": [
+                        0.0,
+                        636.0,
+                        29.0,
+                        686.0
+                    ]
+                },
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.60275,
+                    "bounding_box": [
+                        152.0,
+                        590.0,
+                        233.0,
+                        621.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.58225,
+                    "bounding_box": [
+                        87.0,
+                        533.0,
+                        116.0,
+                        573.0
+                    ]
+                },
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.84995,
+                    "bounding_box": [
+                        0.0,
+                        448.0,
+                        105.0,
+                        547.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.400025824175824,
+            "timestamp": "0:00:09.400026",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.6294500000000001,
+                    "bounding_box": [
+                        77.0,
+                        625.0,
+                        159.0,
+                        657.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 9.500026098901099,
+            "timestamp": "0:00:09.500026",
+            "detections": [
+                {
+                    "category": "pothole",
+                    "class": "pothole",
+                    "confidence": 0.62635,
+                    "bounding_box": [
+                        0.0,
+                        664.0,
+                        70.0,
+                        704.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 10.500028846153846,
+            "timestamp": "0:00:10.500029",
+            "detections": [
+                {
+                    "category": "broken_road",
+                    "class": "broken_road",
+                    "confidence": 0.55065,
+                    "bounding_box": [
+                        39.0,
+                        702.0,
+                        92.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "timestamp_seconds": 11.800032417582418,
+            "timestamp": "0:00:11.800032",
+            "detections": [
+                {
+                    "category": "garbage",
+                    "class": "refrigerator",
+                    "confidence": 0.4515816569328308,
+                    "bounding_box": [
+                        0.3274078369140625,
+                        89.0731201171875,
+                        199.1094970703125,
+                        362.35296630859375
+                    ]
+                }
+            ]
+        }
+    ]
+}
